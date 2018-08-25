@@ -4,7 +4,7 @@ Aplikasi "myuas" dibuat dengan menggunakan android studio, dimana myuas adalah a
 
 
 <p align="center">
-<img src="https://github.com/mnureko/myuas/blob/master/Flowchart.jpg" width="350" height="400"/>
+<img src="https://github.com/mnureko/myuas/blob/master/Flowchart.png" width="350" height="400"/>
 </p>
 
 Dari alur diatas isi biodata hanya bisa diisi ketika pengguna sudah masuk. Hal lain yang bisa kita ketahui bahwa aplikasi yang saya buat memiliki batas dalam hal view atau melihat data, karena data hanya bisa dilihat untuk pengguna yang sudah masuk.
