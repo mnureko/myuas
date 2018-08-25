@@ -1,29 +1,14 @@
-# Android_mysql_volley
+# myuas
 
-Assalamu'alaikum wr wb
+Aplikasi "myuas" dibuat dengan menggunakan android studio, dimana myuas adalah aplikasi untuk webview yang di ambil dari http://sasmitoh.nitarahmawati.my.id/view-json.php , aplikasi myuas adalah project yang diberikan bapak sasmitoh untuk penilaian UAS matakuliah Pemograman Mobile kampus Pelita Bangsa. Dalam Pembuatannya dimana Pola atau alur yang sudah di tentukan, Berikut adalah pola atau alur dari program yang saya buat :
 
-Volley Library merupakan merupakan produk yang diperkenalkan oleh Google untuk mempermudah pertukaran data tanpa harus membuat deretan kode yang sangat panjang. Secara default volley menggunakan metode singkronisasi jadi anda tidak perlu membuat sebuah method atau fungsi yang menggunakan class asynctask.
 
 <p align="center">
-<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/volley.png" width="350" height="400"/>
+<img src="https://github.com/mnureko/myuas/blob/master/Flowchart.jpg" width="350" height="400"/>
 </p>
 
-Android_mysql_volley merupakan salah satu program android , jika melakukan clon ataupun mengkopi pastikan </br>
-1. Instal Android studio v 3.1.4 Sdk 27 
-2. Instal Xampp v 5.6 keatas (yang mendukung mysqli) dan pastikan phpmyadmin dapat diakses dari laptop lain.
-3. Punya kabel data dan hp android (jika tidak ingin menggunakan simulator)
-4. sedikit tahu OOP dan Bahasa Java 
+Dari alur diatas isi biodata hanya bisa diisi ketika pengguna sudah masuk. Hal lain yang bisa kita ketahui bahwa aplikasi yang saya buat memiliki batas dalam hal view atau melihat data, karena data hanya bisa dilihat untuk pengguna yang sudah masuk.
 
-Cara menjalankan di pc anda 
-1. clone zip android_mysql_volley
-2. buka android studio > open project dan arahkan ke folder project hasil clone
-3. unzip dan copy API ( folder android di dalam file clone [android.rar] ) pindah ke dir c:/xampp/htdoch pastekan disini
-4. Buatkan database dan tabelnya (import database ke xampp [login.sql] )
-5. sesuaikan ip didalam Server.java (didalam class java) dengan ip pc masing masing. untuk cek bisa di cmd ketik "ipconfig" ,
-6. saat me run pastikan kabel data terhubung antara pc dan hp , juga pastikan hotspot dari hp diterima ke pc , nyalakan internet untuk hp nya.
+Demikian deskripsi aplikasi yang saya buat, untuk lebih jelasnya bisa mencoba aplikasinya. Apabila ada kritik dan saran demi berkembangnya aplikasi ini, saya siap menerima dengan baik hati.
 
-Nb: yang paling utama dan pertama baca Do'a dahulu, selamat mencoba hehe.........................
-
-
-Wassalamu'alaikum wr wb
-
+Salam
