@@ -11,4 +11,4 @@ Dari alur diatas isi biodata hanya bisa diisi ketika pengguna sudah masuk. Hal l
 
 Demikian deskripsi aplikasi yang saya buat, untuk lebih jelasnya bisa mencoba aplikasinya. Apabila ada kritik dan saran demi berkembangnya aplikasi ini, saya siap menerima dengan baik hati.
 
-Salam
+Terimasih.
