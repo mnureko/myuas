@@ -1,6 +1,6 @@
 # myuas
 
-Aplikasi "myuas" dibuat dengan menggunakan android studio, dimana myuas adalah aplikasi untuk webview yang di ambil dari http://sasmitoh.nitarahmawati.my.id/view-json.php , aplikasi myuas adalah project yang diberikan bapak sasmitoh untuk penilaian UAS matakuliah Pemograman Mobile kampus Pelita Bangsa. Dalam Pembuatannya dimana Pola atau alur yang sudah di tentukan, Berikut adalah pola atau alur dari program yang saya buat :
+Aplikasi "myuas" dibuat dengan menggunakan android studio, dimana myuas adalah aplikasi untuk webview yang di ambil dari http://sasmitoh.nitarahmawati.my.id/view-json.php , aplikasi myuas adalah project yang diberikan bapak Wahyu untuk penilaian UAS matakuliah Pemograman Mobile kampus Pelita Bangsa. Dalam Pembuatannya dimana Pola atau alur yang sudah di tentukan, Berikut adalah pola atau alur dari program yang saya buat :
 
 
 <p align="center">
